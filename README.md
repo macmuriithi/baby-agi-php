@@ -19,7 +19,7 @@ This project is a PHP implementation of BabyAGI, inspired by Yohei Nakajima's or
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/babyagi-php.git
+git clone [https://github.com/yourusername/babyagi-php.git](https://github.com/macmuriithi/baby-agi-php.git)
 cd babyagi-php
 
 2. Install dependencies using Composer: composer require openai-php/client
